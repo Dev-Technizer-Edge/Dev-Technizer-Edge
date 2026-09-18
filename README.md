@@ -28,7 +28,7 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,expo,mongodb,tailwind,python,azure,vercel,git,docker&perline=12" alt="TypeScript, Next.js, React, Node.js, Expo, MongoDB, Tailwind CSS, Python, Azure, Vercel, Git, Docker">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,mongodb,tailwind,python,azure,vercel,git,docker&perline=11" alt="TypeScript, Next.js, React, Node.js, MongoDB, Tailwind CSS, Python, Azure, Vercel, Git, Docker">
 </p>
 
 ### 📈 Activity
