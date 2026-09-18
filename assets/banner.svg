@@ -32,12 +32,12 @@
   <!-- circuit traces -->
   <g fill="none" stroke-width="2" stroke-linecap="round">
     <path class="trace" d="M1200 60H1040l-30 30H880" stroke="#faa41a" stroke-opacity="0.55"/>
-    <path class="trace" d="M1200 262H1140l-24-24H1060" stroke="#7fb539" stroke-opacity="0.55"/>
+    <path class="trace" d="M1200 300H1150l-16-16H1090" stroke="#7fb539" stroke-opacity="0.55"/>
     <path class="trace" d="M1200 160H1110" stroke="#d61f26" stroke-opacity="0.55"/>
   </g>
   <g fill="#050f2e" stroke-width="2">
     <circle cx="880" cy="90" r="5" stroke="#faa41a"/>
-    <circle cx="1060" cy="238" r="5" stroke="#7fb539"/>
+    <circle cx="1090" cy="284" r="5" stroke="#7fb539"/>
     <circle cx="1110" cy="160" r="5" stroke="#d61f26"/>
   </g>
 
