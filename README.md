@@ -17,12 +17,16 @@
 - **One codebase for each surface:** a Next.js web app with a REST API, an Expo Android app on Google Play, and a multi-tenant admin portal
 - **Every client runs in its own deployment and database.** The mobile app picks its client configuration at login, and updates ship over the air, with no Play Store release needed
 
-### 🧩 What we build
+### 🧩 Product portfolio
 
 <p align="center">
-  <a href="https://aacneo.com"><img src="assets/card-aac-neo.svg" alt="AAC Neo: production management for AAC block plants" width="32%"></a>
-  <img src="assets/card-neo-suite.svg" alt="Neo Suite: multi-tenant SaaS modules for business operations" width="32%">
-  <a href="https://technizeredge.com"><img src="assets/card-ai-custom.svg" alt="AI and custom builds for enterprise teams" width="32%"></a>
+  <a href="https://aacneo.com"><img src="assets/card-manufacturing.svg" alt="Manufacturing: AAC Neo (flagship), Neo OMS, AAC Connect" width="32%"></a>
+  <img src="assets/card-business-ops.svg" alt="Business operations: Neo Invoice, Neo Payroll, Neo Fleet" width="32%">
+  <img src="assets/card-front-desk.svg" alt="Front desk and engagement: Neo Visit, Neo Touchpoint" width="32%">
+</p>
+
+<p align="center">
+  <sub>We also build <b>AI automation, document &amp; vision AI and cloud-native software</b> for enterprise teams. See <a href="https://technizeredge.com">technizeredge.com</a>.</sub>
 </p>
 
 ### 🛠️ Stack
