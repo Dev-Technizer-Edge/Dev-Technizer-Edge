@@ -32,7 +32,18 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,mongodb,tailwind,python,azure,vercel,git,docker&perline=11" alt="TypeScript, Next.js, React, Node.js, MongoDB, Tailwind CSS, Python, Azure, Vercel, Git, Docker">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,tailwind,python,fastapi,postgres,prisma,mongodb,firebase&perline=11" alt="TypeScript, Next.js, React, Node.js, Tailwind CSS, Python, FastAPI, PostgreSQL, Prisma, MongoDB, Firebase"><br><br>
+  <img src="https://skillicons.dev/icons?i=azure,aws,vercel,docker,githubactions,git&perline=6" alt="Azure, AWS, Vercel, Docker, GitHub Actions, Git">
+</p>
+
+<p align="center"><b>AI</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude API">
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Azure_AI_Vision-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Vision">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-0A286C?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/AI_agents_%26_automation-7FB539?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI agents and automation">
 </p>
 
 ### 📈 Activity
